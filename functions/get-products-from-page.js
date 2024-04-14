@@ -1,5 +1,6 @@
 const getElementsList = require("./get-elements-list");
 const getHtmlStructure = require("./get-html-structure");
+const getProductData = require ("./get-product-data");
 
 const getProductsFromPage = async (url) => {
     //Obtinem structura HTML a paginii
@@ -9,14 +10,12 @@ const getProductsFromPage = async (url) => {
 
     const elementsList = getElementsList(html);
 
-    console.log("Au fost identificate", elementsList.length, "elemente in pagina");
-    //Pt fiecare produs sa se extraga datele dorite
-}
+    //return elementsList;
+     //Pt fiecare produs sa se extraga datele dorite
 
-const test = async (url) => {
-    await getProductsFromPage(url);
-};
+     const productData= getProductData(elementsList);
+     return productData;
+    }
 
-test("https://www.obio.ro/alimente-bio");
 
 module.exports = getProductsFromPage;
