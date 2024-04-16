@@ -1,0 +1,368 @@
+[
+   {
+      "name": "Crema de migdale bio 200ml Lima",
+      "oldPrice": null,
+      "actualPrice": 7.8,
+      "id": "21055"
+   },
+   {
+      "name": "Crema de ovaz bio 200ml Lima",
+      "oldPrice": null,
+      "actualPrice": 7.8,
+      "id": "2684"
+   },
+   {
+      "name": "Crema de orez bio 200ml Lima",
+      "oldPrice": null,
+      "actualPrice": 7.8,
+      "id": "2683"
+   },
+   {
+      "name": "Crema tartinabila cu sfecla rosie bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16339"
+   },
+   {
+      "name": "Crema tartinabila cu papaya si curry bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16336"
+   },
+   {
+      "name": "Crema tartinabila cu linte si curry bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16333"
+   },
+   {
+      "name": "Crema tartinabila Toscana bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16330"
+   },
+   {
+      "name": "Crema tartinabila cu ardei rosu si caju bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16327"
+   },
+   {
+      "name": "Crema tartinabila cu ardei rosu si chilli bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16324"
+   },
+   {
+      "name": "Crema tartinabila cu vinete bio 180g Dennree",
+      "oldPrice": 15.8,
+      "actualPrice": 12.64,
+      "id": "16321"
+   },
+   {
+      "name": "Pasta tartinabila din avocado cu linte galbena, fara gluten, bio, 140g, Allos",
+      "oldPrice": null,
+      "actualPrice": 14.9,
+      "id": "29305"
+   },
+   {
+      "name": "Pasta tartinabila cu avocado, fara gluten, bio, 140g, Allos",
+      "oldPrice": null,
+      "actualPrice": 16.15,
+      "id": "15619"
+   },
+   {
+      "name": "Crema de cocos bio 200g",
+      "oldPrice": null,
+      "actualPrice": 17.1,
+      "id": "1170"
+   },
+   {
+      "name": "Pasta tartinabila din avocado cu seminte de mac, fara gluten, bio, 135 g, Allos",
+      "oldPrice": null,
+      "actualPrice": 17.4,
+      "id": "29299"
+   },
+   {
+      "name": "Bautura de cocos condensata bio 210g Biona",
+      "oldPrice": null,
+      "actualPrice": 19.65,
+      "id": "13404"
+   },
+   {
+      "name": "Crema de cocos inlocuitor de frisca bio 400ml DS",
+      "oldPrice": 27.2,
+      "actualPrice": 23.12,
+      "id": "16033"
+   },
+   {
+      "name": "Crema vegana cu shiitake bio 125g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 24.9,
+      "id": "16627"
+   },
+   {
+      "name": "Crema vegana cu verdeturi bio 125g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 24.9,
+      "id": "16624"
+   },
+   {
+      "name": "Crema vegana cu ciuperci bio 125g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 24.9,
+      "id": "16621"
+   },
+   {
+      "name": "Crema vegana cu morcovi si migdale bio 125g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 24.9,
+      "id": "16618"
+   },
+   {
+      "name": "Crema tartinabila de ciocolata cu alune de padure, bio, 190g, Super Fudgio",
+      "oldPrice": null,
+      "actualPrice": 25.8,
+      "id": "11039"
+   },
+   {
+      "name": "Hummus natur, bio, 210g, Bio Today",
+      "oldPrice": null,
+      "actualPrice": 26.05,
+      "id": "29884"
+   },
+   {
+      "name": "Tartar de alge marine si condimente bio 100g Algamar",
+      "oldPrice": null,
+      "actualPrice": 27.1,
+      "id": "20212"
+   },
+   {
+      "name": "Hummus cu rosii, bio, 210g, Bio Today",
+      "oldPrice": null,
+      "actualPrice": 28.34,
+      "id": "29887"
+   },
+   {
+      "name": "Crema tartinabila cu alge Percebe bio 180g",
+      "oldPrice": null,
+      "actualPrice": 31.81,
+      "id": "15949"
+   },
+   {
+      "name": "Crema tartinabila cu alge, morcovi si turmeric bio 180g",
+      "oldPrice": null,
+      "actualPrice": 31.81,
+      "id": "14098"
+   },
+   {
+      "name": "Crema tartinabila cu alge si ciuperci shiitake bio 180g",
+      "oldPrice": null,
+      "actualPrice": 31.81,
+      "id": "14095"
+   },
+   {
+      "name": "Ulei de cocos condimentat cu usturoi si chilli bio, 190ml Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 32.4,
+      "id": "26437"
+   },
+   {
+      "name": "Ulei de cocos condimentat cu chilli bio, 190ml Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 32.4,
+      "id": "26434"
+   },
+   {
+      "name": "Ulei de cocos condimentat cu ghimbir bio, 190ml Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 32.4,
+      "id": "26431"
+   },
+   {
+      "name": "Ulei de cocos condimentat cu turmeric bio, 190ml Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 32.4,
+      "id": "26428"
+   },
+   {
+      "name": "Ulei de cocos condimentat cu scortisoara bio, 190ml Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 32.4,
+      "id": "26425"
+   },
+   {
+      "name": "Crema de ciocolata dark bio 350g Biona",
+      "oldPrice": null,
+      "actualPrice": 32.75,
+      "id": "11874"
+   },
+   {
+      "name": "Crema de alune de padure si cacao bio 250g Bettr",
+      "oldPrice": null,
+      "actualPrice": 33.4,
+      "id": "26257"
+   },
+   {
+      "name": "Tahini din susan negru, bio, 250g, Bio Today",
+      "oldPrice": null,
+      "actualPrice": 35.24,
+      "id": "29881"
+   },
+   {
+      "name": "Crema tartinabila cu alge si rosii bio 180g",
+      "oldPrice": null,
+      "actualPrice": 36.56,
+      "id": "14092"
+   },
+   {
+      "name": "Crema tartinabila cu alge si tofu bio, 180g",
+      "oldPrice": null,
+      "actualPrice": 37.71,
+      "id": "15952"
+   },
+   {
+      "name": "Crema de ciocolata cu alune Duo Swirl bio 350g Biona",
+      "oldPrice": null,
+      "actualPrice": 38.42,
+      "id": "11884"
+   },
+   {
+      "name": "Crema tartinabila de caju si alune de padure bio 250g Bettr",
+      "oldPrice": null,
+      "actualPrice": 39,
+      "id": "24202"
+   },
+   {
+      "name": "Crema de ciocolata cu lapte si alune de padure bio 350g Biona",
+      "oldPrice": null,
+      "actualPrice": 39.07,
+      "id": "11879"
+   },
+   {
+      "name": "Mix pentru crema tartinabila alune si ciocolata cu lapte, bio, 170g, Nat-ali",
+      "oldPrice": null,
+      "actualPrice": 40.19,
+      "id": "31730"
+   },
+   {
+      "name": "Mix pentru crema tartinabila alune si ciocolata neagra, bio, 170g, Nat-ali",
+      "oldPrice": null,
+      "actualPrice": 40.19,
+      "id": "31727"
+   },
+   {
+      "name": "Crema tartinabila de caju si capsuni bio 250g Bettr",
+      "oldPrice": null,
+      "actualPrice": 41.8,
+      "id": "24199"
+   },
+   {
+      "name": "Crema tartinabila de cocos bio 250g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 42.14,
+      "id": "16387"
+   },
+   {
+      "name": "Alunette - Crema din alune de padure, eco, 200g, Allu",
+      "oldPrice": null,
+      "actualPrice": 51.9,
+      "id": "28436"
+   },
+   {
+      "name": "Crema vegana No Cheese Fondue bio 380g Bio Today",
+      "oldPrice": null,
+      "actualPrice": 56,
+      "id": "16615"
+   },
+   {
+      "name": "Alunette - Crema din alune de padure cu cacao, eco, 200g, Allu",
+      "oldPrice": null,
+      "actualPrice": 56.65,
+      "id": "28460"
+   },
+   {
+      "name": "Alunette - Crema din alune de padure cu miere, eco, 200g, Allu",
+      "oldPrice": null,
+      "actualPrice": 56.65,
+      "id": "28451"
+   },
+   {
+      "name": "Crema tartinabila cu alune de padure, curmale, banane si cacao, bio, 180g, Erdbar",
+      "oldPrice": null,
+      "actualPrice": 65.02,
+      "id": "30134"
+   },
+   {
+      "name": "Crema de fistic bio 250g Bettr",
+      "oldPrice": null,
+      "actualPrice": 117.4,
+      "id": "24637"
+   },
+   {
+      "name": "Crema de soia bio 200ml Lima",
+      "oldPrice": null,
+      "actualPrice": 7.3,
+      "id": "2685"
+   },
+   {
+      "name": "Crema de cocos bio 200ml Obio",
+      "oldPrice": null,
+      "actualPrice": 9.8,
+      "id": "21277"
+   },
+   {
+      "name": "Bautura de cocos bio 200ml Bio Today",
+      "oldPrice": null,
+      "actualPrice": 10.99,
+      "id": "16462"
+   },
+   {
+      "name": "Bautura de cocos bio 200ml Biona",
+      "oldPrice": null,
+      "actualPrice": 11.7,
+      "id": "2178"
+   },
+   {
+      "name": "Bautura de cocos light bio 400ml Biona",
+      "oldPrice": null,
+      "actualPrice": 16.3,
+      "id": "2179"
+   },
+   {
+      "name": "Bautura de cocos, bio, 400ml, Biona",
+      "oldPrice": null,
+      "actualPrice": 17.6,
+      "id": "2177"
+   },
+   {
+      "name": "Crema de cocos cutie bio 400ml Biona",
+      "oldPrice": null,
+      "actualPrice": 18.1,
+      "id": "4778"
+   },
+   {
+      "name": "Bautura de cocos cu turmeric eco, 400ml, Biona",
+      "oldPrice": null,
+      "actualPrice": 19,
+      "id": "15187"
+   },
+   {
+      "name": "Crema de cocos inlocuitor de frisca bio 400ml Biona",
+      "oldPrice": null,
+      "actualPrice": 21.2,
+      "id": "21115"
+   },
+   {
+      "name": "Crema dulce de cocos bio, 200g Dr. Goerg",
+      "oldPrice": null,
+      "actualPrice": 25.9,
+      "id": "26422"
+   },
+   {
+      "name": "Tahini din susan negru bio 250g Biona",
+      "oldPrice": null,
+      "actualPrice": 30.6,
+      "id": "28658"
+   }
+]

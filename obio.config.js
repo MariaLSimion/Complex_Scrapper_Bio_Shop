@@ -1,5 +1,5 @@
 const config ={
-    url: "https://www.obio.ro/alimente-bio/pagina/4/",
+    url: "https://www.obio.ro/creme/",//"https://www.obio.ro/alimente-bio/pagina/4/",
     elementsListSelector: ".custom-row .product-box-wrapper:not(.product-box-dummy)",
     extractors:{
         productNameExtractor: ($) => $('.product-box').attr('data-product-name'),
