@@ -1,5 +1,5 @@
 const cheerio = require('cheerio');
-
+const config = require ('../config');
 const getProductData = (elementsList) => {
     //parcurgem intreaga lista de elemente analizand fiecare element pe rand
     const data = [];
@@ -11,10 +11,10 @@ const getProductData = (elementsList) => {
 
         const $ = cheerio.load(currentElement);
 
-        const name = $('.product-box').attr('data-product-name');
-        const oldPrice = parseFloat($('.product_price_old').text().replace("Lei", ""));
-        const actualPrice = parseFloat($('.product_actual_price').text().replace("Lei", ""));
-        const id = $('.product-box').attr('data-product-id');
+        const name = config.extractors.productNameExtractor($)
+        const oldPrice = config.extractors.oldPriceExtractor($);
+        const actualPrice = config.extractors.actualPriceExtractor($);
+        const id = config.extractors.idExtractor($);
         data.push({
             name,
             oldPrice,

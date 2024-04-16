@@ -1,278 +1,278 @@
 [
    {
       "name": "Praf de copt, bio, 2x 7g, Nat-ali",
-      "originalPrice": null,
-      "reducedPrice": 3.47,
+      "oldPrice": null,
+      "actualPrice": 3.47,
       "id": "31487"
    },
    {
       "name": "Piure de rosii dublu concentrat bio 70g Biona",
-      "originalPrice": 5.2,
-      "reducedPrice": 4.16,
+      "oldPrice": 5.2,
+      "actualPrice": 4.16,
       "id": "21151"
    },
    {
       "name": "Sare roz de Himalaya grunjoasa, 500g - Obio",
-      "originalPrice": 8.44,
-      "reducedPrice": 4.5,
+      "oldPrice": 8.44,
+      "actualPrice": 4.5,
       "id": "21388"
    },
    {
       "name": "Sare roz de Himalaya fina, 500g, Obio",
-      "originalPrice": 8.44,
-      "reducedPrice": 4.5,
+      "oldPrice": 8.44,
+      "actualPrice": 4.5,
       "id": "21385"
    },
    {
       "name": "ROObiotic energy ball ashwaganda si mango bio 22g",
-      "originalPrice": null,
-      "reducedPrice": 4.53,
+      "oldPrice": null,
+      "actualPrice": 4.53,
       "id": "3496"
    },
    {
       "name": "Coaja de portocale pudra bio 5g Dennree",
-      "originalPrice": null,
-      "reducedPrice": 4.7,
+      "oldPrice": null,
+      "actualPrice": 4.7,
       "id": "22015"
    },
    {
       "name": "Coaja de lamaie pudra bio 5g Dennree",
-      "originalPrice": null,
-      "reducedPrice": 4.7,
+      "oldPrice": null,
+      "actualPrice": 4.7,
       "id": "22012"
    },
    {
       "name": "ROObiotic energy ball cocos si guarana bio 22g",
-      "originalPrice": null,
-      "reducedPrice": 4.95,
+      "oldPrice": null,
+      "actualPrice": 4.95,
       "id": "3521"
    },
    {
       "name": "ROObiotic energy ball ciocolata si matcha bio 22g",
-      "originalPrice": null,
-      "reducedPrice": 4.95,
+      "oldPrice": null,
+      "actualPrice": 4.95,
       "id": "3516"
    },
    {
       "name": "ROObiotic energy ball cacao si maca bio 22g",
-      "originalPrice": null,
-      "reducedPrice": 4.95,
+      "oldPrice": null,
+      "actualPrice": 4.95,
       "id": "3501"
    },
    {
       "name": "TERCI PENTRU BEBELUSI DIN CEREALE INTEGRALE CU BANANE SI AFINE 6+, BIO, 20G, GRACI LABORATORIES",
-      "originalPrice": null,
-      "reducedPrice": 5,
+      "oldPrice": null,
+      "actualPrice": 5,
       "id": "30206"
    },
    {
       "name": "TERCI PENTRU BEBELUSI DIN CEREALE INTEGRALE CU BANANE SI CAROB 6+, BIO, 20G, GRACI LABORATORIES",
-      "originalPrice": null,
-      "reducedPrice": 5,
+      "oldPrice": null,
+      "actualPrice": 5,
       "id": "30203"
    },
    {
       "name": "Intaritor de frisca bio 4 x 8g Dennree",
-      "originalPrice": null,
-      "reducedPrice": 5.1,
+      "oldPrice": null,
+      "actualPrice": 5.1,
       "id": "16288"
    },
    {
       "name": "Napolitana cu crema de arahide, bio, 30g, Super Fudgio",
-      "originalPrice": null,
-      "reducedPrice": 5.63,
+      "oldPrice": null,
+      "actualPrice": 5.63,
       "id": "30085"
    },
    {
       "name": "Grau bio, 500g - Obio",
-      "originalPrice": null,
-      "reducedPrice": 5.9,
+      "oldPrice": null,
+      "actualPrice": 5.9,
       "id": "7119"
    },
    {
       "name": "Baton Mango Magic raw bio 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.25,
+      "oldPrice": null,
+      "actualPrice": 6.25,
       "id": "6179"
    },
    {
       "name": "MINI-Lifebar baton cu ciocolata bio 25g",
-      "originalPrice": null,
-      "reducedPrice": 6.27,
+      "oldPrice": null,
+      "actualPrice": 6.27,
       "id": "10299"
    },
    {
       "name": "MINI-Lifebar baton cu nuca de cocos bio 25g",
-      "originalPrice": null,
-      "reducedPrice": 6.27,
+      "oldPrice": null,
+      "actualPrice": 6.27,
       "id": "10294"
    },
    {
       "name": "Rondele de orez expandat fara sare bio 100g Lima",
-      "originalPrice": null,
-      "reducedPrice": 6.5,
+      "oldPrice": null,
+      "actualPrice": 6.5,
       "id": "2746"
    },
    {
       "name": "Rondele de orez expandat cu sare bio 100g Lima",
-      "originalPrice": null,
-      "reducedPrice": 6.5,
+      "oldPrice": null,
+      "actualPrice": 6.5,
       "id": "2745"
    },
    {
       "name": "Rondele din orez integral expandat cu sare bio 100g Green Organics",
-      "originalPrice": null,
-      "reducedPrice": 6.5,
+      "oldPrice": null,
+      "actualPrice": 6.5,
       "id": "1814"
    },
    {
       "name": "Rondele din orez integral expandat fara sare bio 100g Green Organics",
-      "originalPrice": null,
-      "reducedPrice": 6.5,
+      "oldPrice": null,
+      "actualPrice": 6.5,
       "id": "1813"
    },
    {
       "name": "Baton raw bio cu incan berry 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1778"
    },
    {
       "name": "Baton proteic raw bio cu canepa 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1777"
    },
    {
       "name": "Baton raw bio cu goji 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1727"
    },
    {
       "name": "Baton raw bio cu maca si merisor 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1483"
    },
    {
       "name": "Baton raw bio cu miez de cacao si migdale 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1482"
    },
    {
       "name": "Baton raw bio cu seminte de chia si cocos 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.65,
+      "oldPrice": null,
+      "actualPrice": 6.65,
       "id": "1480"
    },
    {
       "name": "SANATELE BIO Ciocolata neagra si Cocos, ecologic, fara gluten, 28g, Republica Bio",
-      "originalPrice": null,
-      "reducedPrice": 6.66,
+      "oldPrice": null,
+      "actualPrice": 6.66,
       "id": "19279"
    },
    {
       "name": "Rookies - cookie cu caise si vanilie bio 40g",
-      "originalPrice": null,
-      "reducedPrice": 6.77,
+      "oldPrice": null,
+      "actualPrice": 6.77,
       "id": "14179"
    },
    {
       "name": "Rookies - cookie cu ciocolata si alune bio 40g",
-      "originalPrice": null,
-      "reducedPrice": 6.77,
+      "oldPrice": null,
+      "actualPrice": 6.77,
       "id": "14176"
    },
    {
       "name": "Rookies - cookie cu mar si scortisoara bio 40g",
-      "originalPrice": null,
-      "reducedPrice": 6.77,
+      "oldPrice": null,
+      "actualPrice": 6.77,
       "id": "14173"
    },
    {
       "name": "Rookies - cookie cu migdale si curmale bio 40g",
-      "originalPrice": null,
-      "reducedPrice": 6.77,
+      "oldPrice": null,
+      "actualPrice": 6.77,
       "id": "14170"
    },
    {
       "name": "Baton raw bio cu dude si vanilie 30g",
-      "originalPrice": null,
-      "reducedPrice": 6.9,
+      "oldPrice": null,
+      "actualPrice": 6.9,
       "id": "1972"
    },
    {
       "name": "SANATELE BIO Porumb, Rosii si Busuioc, ecologic, fara gluten, 40g, Republica Bio",
-      "originalPrice": null,
-      "reducedPrice": 7.2,
+      "oldPrice": null,
+      "actualPrice": 7.2,
       "id": "19267"
    },
    {
       "name": "Napolitana cu cacao si alune de padure indulcite cu curmale, bio, 30g, Super Fudgio",
-      "originalPrice": null,
-      "reducedPrice": 7.24,
+      "oldPrice": null,
+      "actualPrice": 7.24,
       "id": "30082"
    },
    {
       "name": "Baton cu cocos invelit in ciocolata bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.26,
+      "oldPrice": null,
+      "actualPrice": 7.26,
       "id": "17863"
    },
    {
       "name": "Baton cu arahide invelit in ciocolata bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.26,
+      "oldPrice": null,
+      "actualPrice": 7.26,
       "id": "17860"
    },
    {
       "name": "Baton cu migdale invelit in ciocolata bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.26,
+      "oldPrice": null,
+      "actualPrice": 7.26,
       "id": "17857"
    },
    {
       "name": "Baton cu alune de padure invelit in ciocolata bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.26,
+      "oldPrice": null,
+      "actualPrice": 7.26,
       "id": "17854"
    },
    {
       "name": "Praf de copt bio 4 x 20g Dennree",
-      "originalPrice": null,
-      "reducedPrice": 7.5,
+      "oldPrice": null,
+      "actualPrice": 7.5,
       "id": "16285"
    },
    {
       "name": "Baton cu capsuni  invelit in glazura roz bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.53,
+      "oldPrice": null,
+      "actualPrice": 7.53,
       "id": "19702"
    },
    {
       "name": "Baton cu visine  invelit in glazura alba bio 30g Roobar",
-      "originalPrice": null,
-      "reducedPrice": 7.53,
+      "oldPrice": null,
+      "actualPrice": 7.53,
       "id": "19696"
    },
    {
       "name": "Baton cu alune de padure bio 30g Bettr",
-      "originalPrice": null,
-      "reducedPrice": 7.6,
+      "oldPrice": null,
+      "actualPrice": 7.6,
       "id": "14246"
    },
    {
       "name": "Crema de migdale bio 200ml Lima",
-      "originalPrice": null,
-      "reducedPrice": 7.8,
+      "oldPrice": null,
+      "actualPrice": 7.8,
       "id": "21055"
    },
    {
       "name": "Crema de ovaz bio 200ml Lima",
-      "originalPrice": null,
-      "reducedPrice": 7.8,
+      "oldPrice": null,
+      "actualPrice": 7.8,
       "id": "2684"
    }
 ]

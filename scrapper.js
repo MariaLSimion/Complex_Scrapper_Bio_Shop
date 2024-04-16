@@ -1,3 +1,4 @@
+const config= require ('./config');
 const getProductsFromPage = require ("./functions/get-products-from-page");
 const saveData = require("./functions/save-data");
 const scrapper = async (url) => {
@@ -9,4 +10,4 @@ const scrapper = async (url) => {
     saveData(products);
 };
 
-scrapper("https://www.obio.ro/alimente-bio");
+scrapper(config.url);
